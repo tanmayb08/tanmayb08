@@ -24,7 +24,7 @@ Let's build some impactful 🛠! <br>
 
 
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Technology Stack</h2>
 
 | ☁ Cloud        | 💻 Languages      | 🕸 Web        | 🏗 Framework / Technologies       |
 |:----------------:|:--------------:|:----------------:|:--------------:|
