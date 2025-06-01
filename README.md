@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 ☁ Cloud : <br>
 [![My Skills](https://skillicons.dev/icons?i=firebase,googlecloud)](https://skillicons.dev)
 
-💻 Languages :
+💻 Languages : <br>
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python)](https://skillicons.dev)
 
-🕸 Web :
+🕸 Web : <br>
 [![My Skills](https://skillicons.dev/icons?i=django,html,css,javascript,jquery)](https://skillicons.dev)
 
-🏗 Framework / Technologies :
+🏗 Framework / Technologies : <br>
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,figma,net)](https://skillicons.dev)
 
