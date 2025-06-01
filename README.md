@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+##Skills : 
+<hr>
 ☁ Cloud : <br>
 [![My Skills](https://skillicons.dev/icons?i=firebase,googlecloud)](https://skillicons.dev)
 
