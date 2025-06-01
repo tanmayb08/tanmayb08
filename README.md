@@ -19,9 +19,9 @@ Passionate Computer Engineering student diving deep into the world of emerging t
 Also connect with me here : <br>
 <a href="https://www.linkedin.com/in/bhosale-tanmay/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="50" height="50" /></a>
 
-<hr>
 
-<center><h2>--Skills--</h2></center>
+
+<h2 align="center">--Skills--</h2>
 
 | ☁ Cloud        | 💻 Languages       |
 |:----------------:|:--------------:|
