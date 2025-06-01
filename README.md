@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 Passionate Computer Engineering student diving deep into the world of emerging technologies. My current obsession? Crafting sleek and functional Android applications📱 with Java🔥. Let's build something cool stuff 🛠!
 
-![Cool animated coding logo](https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif)
-
-Also connect with me here : <a href="https://www.linkedin.com/in/bhosale-tanmay/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="10" height="10" /></a>
+Also connect with me here : <a href="https://www.linkedin.com/in/bhosale-tanmay/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="100" height="100" /></a>
 
 <hr>
 
