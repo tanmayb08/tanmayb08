@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,googlecloud,androidstudio,java,arduino,figma,c,cpp,net,python,html,css,javascript)](https://skillicons.dev)
+☁ Cloud : 
+[![My Skills](https://skillicons.dev/icons?i=firebase,googlecloud)](https://skillicons.dev)
+
+💻 Languages :
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python)](https://skillicons.dev)
+
+🕸 Web :
+[![My Skills](https://skillicons.dev/icons?i=django,html,css,javascript,jquery)](https://skillicons.dev)
+
+🏗 Framework / Technologies :
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,figma,net)](https://skillicons.dev)
+
