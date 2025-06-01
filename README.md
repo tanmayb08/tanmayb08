@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-☁ Cloud : 
+☁ Cloud : <br>
 [![My Skills](https://skillicons.dev/icons?i=firebase,googlecloud)](https://skillicons.dev)
 
 💻 Languages :
