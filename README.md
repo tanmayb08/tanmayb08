@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Passionate Computer Engineering student diving deep into the world of emerging technologies. 
+Passionate Computer Engineering student diving deep into the world of emerging technologies. <br>
 My current obsession? Crafting sleek and functional Android applications📱 with Java🔥. Let's build something cool stuff 🛠!
 
 Also connect with me here : <br>
