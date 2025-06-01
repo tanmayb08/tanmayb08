@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Passionate Computer Engineering student diving deep into the world of emerging technologies. My current obsession? Crafting sleek and functional Android applications📱 with Java🔥. Let's build something cool stuff 🛠!
 
-Also connect with me here : 
+Also connect with me here : <br>
 <a href="https://www.linkedin.com/in/bhosale-tanmay/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="50" height="50" /></a>
 
 <hr>
