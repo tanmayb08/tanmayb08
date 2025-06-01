@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Passionate Computer Engineering student diving deep into the world of emerging technologies. My current obsession? Crafting sleek and functional Android applications📱 with Java🔥. Let's build something cool stuff 🛠!
 
-![Cool animated coding logo]([https://raw.githubusercontent.com/your-username/your-repo/main/assets/coding-animation.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcliply.co%2Fclip%2Flinkedin-icon%2F&psig=AOvVaw1pfQJ12JCYABIJp3Ia64IA&ust=1748847701128000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjR6cLTz40DFQAAAAAdAAAAABAE))
+![Cool animated coding logo](https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif)
 
 Also connect with me here : ![Linkedin](URL_TO_YOUR_GIF)
 
