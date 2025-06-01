@@ -21,7 +21,7 @@ Also connect with me here : <br>
 
 <hr>
 
-**--Skills--**
+<h2 text-align:center>--Skills--</h2>
 
 | ☁ Cloud        | 💻 Languages       |
 |:----------------:|:--------------:|
