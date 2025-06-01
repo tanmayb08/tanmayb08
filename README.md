@@ -1,5 +1,4 @@
-## Hi there 👋🏼
-
+## Hi there ![Hand Wave](https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b9520a0gqx16s1t0jh0xlmfzk0pqmo8f2pk1hvpaue2y&ep=v1_stickers_search&rid=giphy.gif&ct=s) 
 <!--
 **tanmayb08/tanmayb08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
