@@ -31,7 +31,7 @@ Let's build some impactful 🛠! <br>
 | [![My Skills](https://skillicons.dev/icons?i=firebase,googlecloud)](https://skillicons.dev)    | [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=django,html,css,javascript,jquery)](https://skillicons.dev)    | [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,figma,net)](https://skillicons.dev)  |
 
 
-![View Count](https://komarev.com/ghpvc/?username=tanmayb08)
+
 <br>
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=tanmayb08&style=plastic&color=6366f1" alt="View Count" />
