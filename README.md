@@ -21,7 +21,7 @@ Also connect with me here : <br>
 
 
 
-<h2 align="center">--Skills--</h2>
+<h2 align="center">Skills</h2>
 
 | ☁ Cloud        | 💻 Languages       |
 |:----------------:|:--------------:|
@@ -30,17 +30,4 @@ Also connect with me here : <br>
 | 🕸 Web        | 🏗 Framework / Technologies       |
 |:----------------:|:--------------:|
 | [![My Skills](https://skillicons.dev/icons?i=django,html,css,javascript,jquery)](https://skillicons.dev)    | [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,figma,net)](https://skillicons.dev)  |
-
-
-☁ Cloud : <br>
-[![My Skills](https://skillicons.dev/icons?i=firebase,googlecloud)](https://skillicons.dev)
-
-💻 Languages : <br>
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python)](https://skillicons.dev)
-
-🕸 Web : <br>
-[![My Skills](https://skillicons.dev/icons?i=django,html,css,javascript,jquery)](https://skillicons.dev)
-
-🏗 Framework / Technologies : <br>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,figma,net)](https://skillicons.dev)
 
