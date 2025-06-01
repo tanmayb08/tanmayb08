@@ -31,4 +31,4 @@ Let's build some impactful 🛠! <br>
 | [![My Skills](https://skillicons.dev/icons?i=firebase,googlecloud)](https://skillicons.dev)    | [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=django,html,css,javascript,jquery)](https://skillicons.dev)    | [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,figma,net)](https://skillicons.dev)  |
 
 
-![Visitor Count](https://profile-counter.glitch.me/tanmayb08/count.svg)
+![View Count](https://komarev.com/ghpvc/?username=tanmayb08)
