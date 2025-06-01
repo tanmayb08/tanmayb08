@@ -18,6 +18,9 @@ My current obsession? Crafting sleek and functional Android applications📱 wit
 
 Also connect with me here : <br>
 <a href="https://www.linkedin.com/in/bhosale-tanmay/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="50" height="50" /></a>
+<a href="https://x.com/Tanmay_B08"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Tweeter" width="50" height="50" /></a>
+
+
 
 
 
