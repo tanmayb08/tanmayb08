@@ -37,9 +37,14 @@ Let's build something impactful 🛠! <br>
 <br>
 <h2 align="center">Open Source</h2>
 <div>
-  <img src="" alt="WOC 5.0"/>
+  <img src="WoC 5.0 - Contributor Badge Black.png" height="200" alt="WOC 5.0"/>
   <img src="ticket_mentee.png" height="200" alt="Apertre 3.0">
 </div>
+<br>
+<!-- <div align="right">
+  <img src="Initiator_Card.png" height="200" alt="WallsGodd"/>
+  <img src="Collaborator_Card.png" height="200" alt="WallsGodd">
+</div> -->
 
 
 <br>
